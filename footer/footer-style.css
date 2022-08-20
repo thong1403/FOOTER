@@ -1,0 +1,84 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* FOOTER START */
+.khungbo{
+    width: 100%;
+    height: 100%;
+    margin-top: 100%;
+    /* margin-bottom: 100%; */
+}
+.khungbo .khungcon{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: #00654F;
+}
+.khungcon .chu1{
+    width: 400px;
+    color: white;
+}
+.khungcon .chu0{
+    color: white;
+}
+.khungcon .chu2{
+    color: white;
+}
+
+.khungbo .anh-dmca{
+    width: 90px;
+    height: 30px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+
+.khungbo .fa-brands{
+font-size: 30px;
+padding: 5px;
+background-color: white;
+border-radius: 5px;
+margin: 10px;
+margin-top: 20px;
+margin-bottom: 20px;
+
+}
+.khungbo .fa-solid{
+    font-size: 30px;
+    padding: 5px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 10px;
+}
+.khungbo .fa-circle-z{
+    width: 50px;
+}
+.khungbo .bangnho1{
+    display: flex;
+    justify-content: space-between;
+    width: 600px;  
+    color: white;
+    margin-top: 70px;
+}
+.khungbo .chu5{
+    color: white;
+   padding-top: 250px;
+   padding-left: 50px;
+}
+.khungbo .khungnho{
+    margin-top: 40px;
+}
+.khungbo .bangnho2{
+    padding-bottom: 50px;
+}
+.khungbo .bangnho3{
+    padding-bottom: 50px;
+}
+.khungbo .chu9{
+   margin-top: 10px;
+}
+/* FOOTER END */
